@@ -12,7 +12,8 @@ Preferences → Plugins → Marketplace → 搜索“EasyYapi” → 安装该�
 
 1. Settings -> Other Settings -> EasyYapi -> 勾选methodDoc  ->  设置Yapi 服务器地址 和 token -> apply
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/1666959/1622686594855-57e5b3bc-3318-47ca-854f-91bddbc64a13.png#clientId=u1a577dc0-c541-4&from=paste&height=705&id=u04e205a5&margin=%5Bobject%20Object%5D&name=image.png&originHeight=705&originWidth=987&originalType=binary&size=66090&status=done&style=none&taskId=u1a589152-0af2-4b90-a2d4-e04c38eb43a&width=987)
+![image.png](https://user-images.githubusercontent.com/30682144/148865625-1db01396-a3d6-4c52-97e0-9cd2701d24b9.png)
+
 
 2. Yapi信息获取
 
