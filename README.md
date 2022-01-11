@@ -19,7 +19,8 @@ Preferences → Plugins → Marketplace → 搜索“EasyYapi” → 安装该�
 
 server : [https://yapi.xxx.cn](https://yapi.xxx.cn)
 token :  设置 -> token设置 -> 复制token
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/1666959/1622686656462-fd376b9f-b5c2-4d8e-9e51-537df10de370.png#clientId=u1a577dc0-c541-4&from=paste&height=785&id=ube3c01f8&margin=%5Bobject%20Object%5D&name=image.png&originHeight=785&originWidth=1263&originalType=binary&size=72486&status=done&style=none&taskId=u7ab5e844-cfd0-438b-85d9-3fc69986468&width=1263)
+![image](https://user-images.githubusercontent.com/30682144/148865799-ebbbc4f4-68f7-4491-ac8a-350df9d7bc6f.png)
+
 # 使用
 ## 注释规范
 ### 类注释
